@@ -2,7 +2,7 @@
 |  # 	| DOMAIN                                                        	| WEIGHT 	|
 |:--:	|---------------------------------------------------------------	|:------:	|
 |  1 	| **[Testing](testing.md)**                                                  	|   5%   	|
-|  2 	| **Diagnostics** (Basics, Debugging, Performance)                   	|   5%   	|
+|  2 	| **[Diagnostics](diagnostics.md)** (Basics, Debugging, Performance)                   	|   5%   	|
 |  3 	| **http(s) TCP**                                                 	|   11%  	|
 |  4 	| **Events**                                                        	|   9%   	|
 |  5 	| **Child Processes** (Basics, no IPC/fork)                          	|   7%   	|
